@@ -1,0 +1,10 @@
+{
+    "title": "Run LÖVE",
+    "name": "instilledbee.run-love2d",
+    "description": "Run LÖVE apps within Brackets",
+    "version": "1.0.0",
+    "author": "InstilledBee <admin@instilledbee.net> (http://instilledbee.net)",
+    "homepage": "https://github.com/instilledbee/run-love2d",
+    "license": "MIT",
+    "keywords": ["love2d", "lua", "love"]
+}
